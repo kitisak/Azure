@@ -1,13 +1,16 @@
 # Azure
 Microsoft Azure Knowledge
 
-Demo - Create an Azure virtual machine
-
-Steps
-1. Sign in to the Azure portal at https://portal.azure.com
-2. Choose Create a resource in the upper left-hand corner of the Azure portal.
-3. In the search box above the list of Azure Marketplace resources, search for and select Windows Server 2016 Datacenter, then choose Create.
-4. In the Basics tab, under Project details, make sure the correct subscription is selected and then choose to Create new resource group. Type myResourceGroup for the name.
-5. Under Instance details, type myVM for the Virtual machine name and choose East US for your Location. Leave the other defaults.
-6. Under the Administrator account section, provide a username, such as azureuser and a password. The password must be at least 12 characters long and meet the defined complexity requirements.
-7. Under Inbound port rules, choose Allow selected ports and then select RDP (3389) and HTTP (80) from the drop-down. These are to allow us to connect to the virtual machine using RDP over port 3389 and then to see a web page display over HTTP on port 80.
+วันนี้ผมได้มีโอกาสไปเป็น speaker เรื่อง Microsoft Azure Fundamentals ที่ Microsoft (Thailand) มาครับ โดยเนื้อหานั้นก็เน้นเป็นไปในแบบ course training วิชา AZ-900 ซึ่งเป็นวิชาที่ใช้ในสอบ Microsoft Certified Azure Fundamentals ซึ่งเป็น Certified ระดับแรกสุดเลยครับ
+.
+เมื่อเพื่อนๆ สอบผ่านวิชานี้แล้ว สามารถที่จะไปสอบต่อในสายที่เราสนใจได้ เป็น Level 2 (Associate)
+- Microsoft Azure Administrator
+- Microsoft Azure Security Engineer
+- Microsoft Azure Developer
+- Microsoft Azure Data Engineer
+- Microsoft Azure Data Scientist
+- Microsoft Azure AI Engineer 
+.
+ผมเองอยากให้เพื่อนๆ ลองได้อ่านหนังสือทบทวนแล้วมาสอบกัน วิชานี้เน้นเรื่องภาพรวมของ Azure เหมาะกับทุก Role ที่จะต้องทำงานเกี่ยวกับ Cloud Computing ครับ น้องๆ นักศึกษาเองก็ควรศึกษาเรื่องนี้ไว้ และถ้าเป็นไปได้ ศึกทำและมาสอบ Certified ก็เป็นสิ่งที่ดีครับ
+.
+ผมจึงขออนุญาตแชร์ Presentation ที่ใช้ในการบรรยายวันนี้ให้เพื่อนๆ ได้ไปลองอ่านกันนะ ครับ และถ้ามี Resource ใดๆ เพิ่มเติม สามารถตามได้ใน GitHub ของเรานะ
