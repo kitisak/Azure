@@ -1,7 +1,7 @@
 # Azure
 Microsoft Azure Knowledge
 
-วันนี้ผมได้มีโอกาสไปเป็น speaker เรื่อง Microsoft Azure Fundamentals ที่ Microsoft (Thailand) มาครับ โดยเนื้อหานั้นก็เน้นเป็นไปในแบบ course training วิชา AZ-900 ซึ่งเป็นวิชาที่ใช้ในสอบ Microsoft Certified Azure Fundamentals ซึ่งเป็น Certified ระดับแรกสุดเลยครับ
+วันนี้ผมได้มีโอกาสไปเป็น speaker ในงาน Azure Training Day ในหัวข้อ Microsoft Azure Fundamentals ที่ Microsoft (Thailand) มาครับ โดยเนื้อหานั้นก็เน้นเป็นไปในแบบ course training วิชา AZ-900 ซึ่งเป็นวิชาที่ใช้ในสอบ Microsoft Certified Azure Fundamentals ซึ่งเป็น Certified ระดับแรกสุดเลยครับ
 .
 เมื่อเพื่อนๆ สอบผ่านวิชานี้แล้ว สามารถที่จะไปสอบต่อในสายที่เราสนใจได้ เป็น Level 2 (Associate)
 - Microsoft Azure Administrator
