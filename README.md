@@ -45,5 +45,4 @@ https://github.com/Tizcom/Azure
 
 Tissana Tanaklang (ธิษณา ธนคลัง)
 
-Microsoft Certified Trainer (MCT)
-Microsoft Certified Solutions Associate (MCSA) - Web Application Development
+Microsoft Certified Trainer (MCT) / Microsoft Certified Solutions Associate (MCSA) - Web Application Development / Microsoft Certified Azure Fundamentals / Microsoft Certified Professional (MCP)
